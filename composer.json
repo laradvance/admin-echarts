@@ -1,5 +1,5 @@
 {
-    "name": "jxlwqq/echarts",
+    "name": "laradvance/admin-echarts",
     "description": "echarts for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
