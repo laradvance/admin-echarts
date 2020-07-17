@@ -3,7 +3,7 @@
     "description": "echarts for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/jxlwqq/echarts",
+    "homepage": "https://github.com/laradvance/admin-echarts",
     "license": "MIT",
     "authors": [
         {
